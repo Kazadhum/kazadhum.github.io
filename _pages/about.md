@@ -29,9 +29,7 @@ Hi! I'm Diogo, a PhD student at the University of Aveiro (UA), researching the c
 
 During my Master's, I acquired a taste for Robotics and my interest, particularly in the area calibration, has only grown since then. My Master's dissertation is titled "Application of cloud simulation techniques for robotic software validation". Through it, I gained experience working with GitHub Actions, Docker, ROS, Gazebo and AWS services.
 
-My interests beyond Robotics include Mathematics and Control Theory. I'm also always looking to improve my coding and programming skills. Personal interests beyond the academic include tabletop games, such as D&D and Magic the Gathering, as well as fantasy literature. 
-
-
+Academically, I am also interested in Mathematics and Control Theory. I'm always looking to improve my coding and programming skills. Beyond the academic, I enjoy playing tabletop games, such as D&D and Magic the Gathering, as well as reading (mostly) sci-fi/fantasy literature.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 <!--  -->
