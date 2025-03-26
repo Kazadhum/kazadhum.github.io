@@ -2,22 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: University of Aveiro | diogoscsv@ua.pt
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    he/him
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -28,7 +27,11 @@ latest_posts:
 ---
 Hi! I'm Diogo, a PhD student at the University of Aveiro (UA), researching the calibration of robotic systems. I got my BSc in Mechatronics Engineering at the University of Évora (UE), in 2021 and my MSc in Industrial Automation Engineering at UA. 
 
-During my Master's, I acquired a taste for Robotics and my interest, particularly in the area calibration, has only grown since then. My Master's dissertation is titled "Application of cloud simulation techniques for robotic software validation". Through it, I gained experience working with GitHub Actions, Docker, ROS, Gazebo, AWS services, etc.
+During my Master's, I acquired a taste for Robotics and my interest, particularly in the area calibration, has only grown since then. My Master's dissertation is titled "Application of cloud simulation techniques for robotic software validation". Through it, I gained experience working with GitHub Actions, Docker, ROS, Gazebo and AWS services.
+
+My interests beyond Robotics include Mathematics and Control Theory. I'm also always looking to improve my coding and programming skills. Personal interests beyond the academic include tabletop games, such as D&D and Magic the Gathering, as well as fantasy literature. 
+
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 <!--  -->
