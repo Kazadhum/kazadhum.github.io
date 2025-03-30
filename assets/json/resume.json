@@ -30,7 +30,7 @@
   ],
   "education": [
     {
-      "institution": "University of Aveiro",
+      "institution": "University of Aveiro, Aveiro, Portugal",
       "location": "Aveiro, Portugal",
       "url": "",
       "area": "Mechanical Engineering (Robotics)",
@@ -41,7 +41,7 @@
       "courses": []
     },
     {
-      "institution": "University of Aveiro",
+      "institution": "University of Aveiro, Aveiro, Portugal",
       "location": "Aveiro, Portugal",
       "url": "",
       "area": "Industrial Automation Engineering",
@@ -55,6 +55,24 @@
         "Servomechanics",
         "Industrial Vision and Perception Systems",
         "Thesis: Application of Cloud Simulation Techniques for Robotic Software Validation"
+      ]
+    },
+    {
+      "institution": "University of Évora, Évora, Portugal",
+      "location": "Évora, Portugal",
+      "url": "",
+      "area": "Mechatronics Engineering",
+      "studyType": "BSc",
+      "startDate": "2018",
+      "endDate": "2021",
+      "score": "16",
+      "courses": [
+        "Mathematical Analysis",
+        "Linear Algebra and Geometry",
+        "Programming",
+        "Electrical Theory/Eletronics",
+        "Control and Automation",
+        "Industrial Automatisms"
       ]
     }
   ],
