@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Diogo Vieira",
+    "label": "PhD Student and Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "diogoscsv@ua.pt",
+    "phone": "",
+    "url": "kazadhum.github.io",
+    "summary": "A Ph.D. student and researcher, researching the topic of calibration of robotic systems,",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Aveiro",
+      "countryCode": "PT",
+      "region": ""
     },
     "profiles": [
       {
