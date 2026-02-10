@@ -11,6 +11,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     PhD Student and Researcher
+    
     Robotics (Calibration)
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
